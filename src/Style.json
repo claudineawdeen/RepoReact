@@ -1,0 +1,4 @@
+{
+  "style1":{"color":"blue","fontWeight":"bold"},
+  "style2":{"color":"red","fontStyle":"italic"}
+}
